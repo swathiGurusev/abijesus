@@ -18,6 +18,6 @@ class PositiveNegative {
 
         // if both test expression is evaluated to false
         else
-            System.out.println(number + " is Zero.");
+            System.out.println(number + " Zero.");
     }
 }

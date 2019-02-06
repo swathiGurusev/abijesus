@@ -54,7 +54,7 @@
 
             {
 
-                System.out.println("Year "+year+"  Leap Year");
+                System.out.println("Year "+year+" Yes");
 
             }
 
@@ -62,7 +62,7 @@
 
             {
 
-                System.out.println("Year "+year+"  not Leap Year");
+                System.out.println("Year "+year+"  No");
 
             }
 

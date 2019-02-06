@@ -54,7 +54,7 @@
 
             {
 
-                System.out.println("Year "+year+" Yes");
+                System.out.println("Yes");
 
             }
 
@@ -62,7 +62,7 @@
 
             {
 
-                System.out.println("Year "+year+"  No");
+                System.out.println("No");
 
             }
 

@@ -12,8 +12,7 @@
 
             Scanner s = new Scanner(System.in);
 
-            System.out.print("Enter any year:");
-
+            
             int year = s.nextInt();
 
             boolean flag = false;

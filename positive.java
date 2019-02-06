@@ -1,5 +1,4 @@
 
-package PositiveNegative;
 import java.util.Scanner;
 
 class PositiveNegative {

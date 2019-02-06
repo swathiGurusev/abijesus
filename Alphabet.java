@@ -9,8 +9,8 @@ import java.util.Scanner;
         char c = '*';
 
         if( (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
-            System.out.println( " alphabet.");
+            System.out.println( " Alphabet");
         else
-            System.out.println( " No.");
+            System.out.println( " No");
     }
 }

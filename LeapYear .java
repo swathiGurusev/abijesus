@@ -53,7 +53,7 @@
 
             {
 
-                System.out.println("Yes");
+                System.out.println("yes");
 
             }
 
@@ -61,7 +61,7 @@
 
             {
 
-                System.out.println("No");
+                System.out.println("no");
 
             }
 

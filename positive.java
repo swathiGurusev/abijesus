@@ -6,7 +6,7 @@ class PositiveNegative {
 
     public static void main(String[] args) {
 
-       int  number = ;
+       int  number = 3;
 
         // true if number is less than 0
         if (number < 0)

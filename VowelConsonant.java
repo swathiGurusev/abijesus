@@ -7,7 +7,7 @@ class VowelConsonant
    {
 	boolean isVowel=false;;
 	Scanner scanner=new Scanner(System.in);
-	System.out.println("Input : ");
+	System.out.println("enter char : ");
 	char ch=scanner.next().charAt(0); 
 	scanner.close();
 	switch(ch)
@@ -20,11 +20,11 @@ class VowelConsonant
 	  isVowel = true;
 	}
 	if(isVowel == true) {
-	   System.out.println("  Vowel");
+	   System.out.println("Vowel");
 	}
 	else {
 	   if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
-		System.out.println("  Consonant");
+		System.out.println("Consonant");
 	   else
 		System.out.println("Invalid ");		
         }

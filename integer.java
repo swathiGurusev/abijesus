@@ -12,6 +12,6 @@ class NumberDigits {
             ++count;
         }
 
-        System.out.println("Number of digits: " + count);
+        System.out.println(count);
     }
 }

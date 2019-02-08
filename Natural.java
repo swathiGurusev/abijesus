@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Natural
+ class natural
  {
 
     public static void main(String[] args) 

@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*; 
 import java.util.Scanner;
  
-public class Palindrome {
+class Palindrome {
 
     public static void main(String[] args) {
 

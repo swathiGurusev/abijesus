@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Armstrong
 {
 
-     static void main(String[] args) {
+      public static void main(String[] args) {
 
         int num = 371, number, temp, total = 0;
 

@@ -37,8 +37,9 @@ import java.io.*;
     // driver function 
     public static void main (String[] args) 
     { 
-        int n = 5683; 
-        int k = 6; 
+         int arr[] = {3, 1, 4, 4, 5, 2, 6, 1}; 
+         int n = (arr[0]); 
+         int k = 2;   
         System.out.println(firstkdigits(n,k)); 
     } 
 } 

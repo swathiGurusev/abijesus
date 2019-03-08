@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class digitcountvalue 
+ class digitcountvalue2
 {
     public static void main(String args[])
     {

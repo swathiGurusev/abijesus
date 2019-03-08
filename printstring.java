@@ -1,5 +1,6 @@
 import java.util.*;
-class string{  
+class stringprint
+{  
 public static void main(String args[])  
 {   
 Scanner input=new Scanner(System.in);

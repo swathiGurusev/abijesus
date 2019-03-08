@@ -1,21 +1,26 @@
-import java.util.Scanner;
-class max
-{
-    public static void main(String[] args){
-        int n, max;
-        Scanner s = new Scanner(System.in); 
-        n = s.nextInt();
-        int a[] = new int[n]; 
-        for(int i = 0; i < n; i++){
-            a[i] = s.nextInt();
-        }
-        max = a[0];
-        for(int i = 0; i < n; i++)
-        {
-            if(max < a[i])
-            { max = a[i];
-            }
-        }
-        System.out.println(max);
-    }
-}
+import java.util.scanner;
+ class Maxmin
+{ 
+     static int arr[] = {1, 3, 4, 9, 8}; 
+       
+     // Method to find maximum in arr[] 
+     static int largest() 
+     { 
+         int i; 
+           
+         // Initialize maximum element 
+         int max = arr[0]; 
+        
+         // Traverse array elements from second and 
+         // compare every element with current max   
+         for (i = 1; i < arr.length; i++) 
+             if (arr[i] > max) 
+                 max = arr[i]; 
+        
+         return max; 
+     } 
+     public static void main(String[] args)  
+     { 
+         System.out.println( + largest()); 
+        } 
+ } 

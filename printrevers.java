@@ -11,5 +11,6 @@ import java.lang.*;
             fact=fact*i;
         }
         System.out.println(fact);
+     
     }
 }

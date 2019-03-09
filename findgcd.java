@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*; 
-class findgcd
+class findvalue
 {
     public static void main(String args[]){
         int a,b,result=0;

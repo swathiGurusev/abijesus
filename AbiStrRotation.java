@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class AbiStrRotation 
+ class AbiStrRotation 
 {
     public static String StringRotation(String s,int k)
     {
